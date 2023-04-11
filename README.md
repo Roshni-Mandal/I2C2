@@ -45,12 +45,9 @@ Finally, it's important to continue iterating and improving TrustyTalk based on 
 ## Technologies we used
 ~~~~
 - React Js
-- Vue.js
 - Html/Css
 - Javascript
-- Python/Flask
 - Node Js
-- WebGL
 ~~~~
 
 ## 🔗 Links
