@@ -1,5 +1,5 @@
 <h1 align="center">
-# I2C2
+ I2C2
 </h1>
 
 <h2>
@@ -47,7 +47,9 @@ Finally, it's important to continue iterating and improving TrustyTalk based on 
 - React Js
 - Html/Css
 - Javascript
+- 5ire
 - Node Js
+- Metamask
 ~~~~
 
 ## 🔗 Links
